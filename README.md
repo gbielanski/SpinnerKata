@@ -6,4 +6,4 @@
 5. Create adapter with data from resources
 6. Get Spinner view
 7. set spinner adapter
-
+8. add listener and show toast on selected item
